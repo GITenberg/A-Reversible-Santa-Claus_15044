@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4371
     wikipedia: http://www.indianahistory.org/library/manuscripts/collection_guides/M0666.html
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15044#A-Reversible-Santa-Claus
 gutenberg_bookshelf: Christmas
 gutenberg_issued: '2005-02-14'
 gutenberg_type: Text
